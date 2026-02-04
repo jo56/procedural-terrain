@@ -27,10 +27,10 @@ A browser-based procedural terrain generator using Rust, WebAssembly, and WebGPU
 - Multiple color themes with real-time switching
 - Atmospheric fog
 
-## Requirements
+## Prerequisites
 
-- [Rust](https://rustup.rs/) (stable)
-- [wasm-pack](https://rustwasm.github.io/wasm-pack/installer/)
+- [Rust](https://rustup.rs/) toolchain (stable)
+- wasm-pack: `cargo install wasm-pack`
 - [Node.js](https://nodejs.org/) (v18+)
 - A WebGPU-capable browser (see below)
 
